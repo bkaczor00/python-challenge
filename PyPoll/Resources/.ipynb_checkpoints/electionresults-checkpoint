@@ -1,0 +1,1 @@
+         Election Results/n---------------------------/ntotal votes: sum(1 for row in file)---------------------------/n
